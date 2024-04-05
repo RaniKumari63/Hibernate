@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacehibernate\01_HB_Student_app"/>
+			<item value="C:\Users\neral\eclipse-workspacehibernate\14_HB_TableSubclassEx"/>
+			<item value="C:\Users\neral\eclipse-workspacehibernate\12_HB_Ex7"/>
+			<item value="C:\Users\neral\eclipse-workspacehibernate\13_HB_RELATION\src\main\java\com\suchiit\config\hibernate.cfg.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="projectNameCombo">
+		</list>
+		<list key="packageCombo">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.suchiit.StudentApp1"/>
+			<item value="com.suchiit.OnlineQuiz"/>
+			<item value="com.suchiit._HB_OnetoMany"/>
+			<item value="com.suchiit._HB_QuestionAnswers"/>
+			<item value="com.suchiit._HB_TableSubclassEx"/>
+			<item value="com.suchiit._HB_Table_classEx1"/>
+			<item value="com.suchiit._HB_RELATION"/>
+		</list>
+		<list key="groupId">
+			<item value="com.suchiit"/>
+		</list>
+		<list key="artifactId">
+			<item value="StudentApp1"/>
+			<item value="OnlineQuiz"/>
+			<item value="14_HB_OnetoMany"/>
+			<item value="15_HB_QuestionAnswers"/>
+			<item value="14_HB_TableSubclassEx"/>
+			<item value="13_HB_Table_classEx1"/>
+			<item value="13_HB_RELATION"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.jboss.tools.project.examples.stacksrequirements">
+	</section>
+</section>

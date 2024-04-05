@@ -1,0 +1,17 @@
+package com.suchiit._HB_Student_app;
+
+
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.suchiit.pojo.StudentEntity;
+
+public class App3 
+{
+    public static void main( String[] args )
+    {
+    
+    }
+}

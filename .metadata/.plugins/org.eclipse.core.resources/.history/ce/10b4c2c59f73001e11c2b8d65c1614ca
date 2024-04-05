@@ -1,0 +1,17 @@
+package com.suchiit.StudentApp1;
+
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    { Configuration cfg=new Configuration();
+    	System.out.println(cfg.getProperty("hibernate.connection.driver_class"));
+        System.out.println( "Hello World!" );
+        cfg.configure();
+    }
+}

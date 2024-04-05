@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=01_HB_Student_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.pojo{StudentEntity.java[StudentEntity" modifiers="1" timestamp="1679075202263"/>
+    <typeInfo handle="=02_HB_Employee_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.pojo{EmployeeEntity.java[EmployeeEntity" modifiers="1" timestamp="1698380506974"/>
+    <typeInfo handle="=10_HB_Ex4/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.model{StudentEntity.java[StudentEntity" modifiers="1" timestamp="1678004732451"/>
+    <typeInfo handle="=11_HB_ex6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.entity{StudentEntity.java[StudentEntity" modifiers="1" timestamp="1678040216043"/>
+    <typeInfo handle="=11_HB_ex6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.entity{DepartmentEntity.java[DepartmentEntity" modifiers="1" timestamp="1678006657414"/>
+    <typeInfo handle="=11_HB_ex6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.entity{EmployeeEntity.java[EmployeeEntity" modifiers="1" timestamp="1678006530676"/>
+    <typeInfo handle="=11_HB_ex6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.suchiit.entity{CourseEntity.java[CourseEntity" modifiers="1" timestamp="1678006921339"/>
+</typeInfoHistroy>
